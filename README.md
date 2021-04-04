@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doneberg
-- 👀 I’m interested in DSP, plug-ins, and yet Java
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...Let's talk.
+- 💞️ I’m looking to collaborate on Java.
 - 📫 How to reach me ... doneberg@gmail.com
 
 <!---
