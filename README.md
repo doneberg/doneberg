@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doneberg
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning C and C++
+- 👀 I’m interested in web development, automated testing, embedded systems, and cybersecurity 
+- 🌱 I’m currently mastering Java, C, and C++
 - 💞️ I’m looking to collaborate on audio plugins
 - 📫 How to reach me ... doneberg@gmail.com
 
