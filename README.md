@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doneberg
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on audio plugins
 - 📫 How to reach me ... doneberg@gmail.com
 
