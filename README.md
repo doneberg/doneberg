@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doneberg
-- ASU '23
+- ASU SE
 - 👀 I’m interested in application development, DSP, automated testing, embedded systems, and pc music. 
 - 🌱 Skilled in Java, Javascript, ASP.NET, C, C++, and HTML/CSS
 - 💞️ I’m looking to collaborate on audio plugins
